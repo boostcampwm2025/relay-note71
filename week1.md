@@ -119,3 +119,9 @@
 
 <img width="1106" height="1088" alt="image" src="https://github.com/user-attachments/assets/affde3d3-9086-4817-af37-c0303aaac73e" />
 
+## Q3
+목요일 임건혁 수행 완료
+
+![화면 캡처 2025-07-25 125343](https://github.com/user-attachments/assets/98c2bbd8-8b5c-47ed-959f-5686dac4a5ed)
+
+

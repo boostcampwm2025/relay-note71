@@ -118,6 +118,7 @@
 <img width="426" height="335" alt="스크린샷 2025-07-21 오후 1 34 40" src="https://github.com/user-attachments/assets/8a85fd84-b3fd-40e0-8854-c469d3676cc7" />
 
 금요일 수행 완료
+
 <img width="687" height="579" alt="스크린샷 2025-07-25 오후 1 06 17" src="https://github.com/user-attachments/assets/0202c3c3-1150-432c-9bc1-f4005f2cd647" />
 
 ## Q3

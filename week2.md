@@ -193,7 +193,7 @@ J279 추정우
 
 - 이유: 내 리드미를 다른 사람이 읽었을 때 어떨지 객관적인  피드백을 받아 보고 싶어서
 - 실행 과정
-    <img width="707" height="635" alt="image" src="https://github.com/user-attachments/assets/4e94d56c-5e8c-4e76-af6c-9219bfa98d23" />
+<img width="707" height="635" alt="image" src="https://github.com/user-attachments/assets/4e94d56c-5e8c-4e76-af6c-9219bfa98d23" />
 <img width="659" height="675" alt="image" src="https://github.com/user-attachments/assets/877c8a0b-f6f7-4e71-a15f-cd1f7d315e11" />
 <img width="656" height="506" alt="image" src="https://github.com/user-attachments/assets/7829cf69-81cf-4a2d-a2e6-6482e7aaf0f0" />
 <img width="653" height="633" alt="image" src="https://github.com/user-attachments/assets/67364348-2cc1-4858-b38e-a17abb564d21" />

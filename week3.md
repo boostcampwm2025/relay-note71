@@ -52,7 +52,7 @@
 - 사용 예시 :
     (왼쪽 - 내가 그린 그림, 오른쪽 - AI가 맞춰서 그린 그림)
 
-  <img width="350" height="430" alt="My Image 2025년 8월 1일 오후 02_54_50" src="https://github.com/user-attachments/assets/2d011e4f-892d-414f-bad4-d460b44db149" />
+  <img width="300" height="600" alt="My Image 2025년 8월 1일 오후 02_54_50" src="https://github.com/user-attachments/assets/2d011e4f-892d-414f-bad4-d460b44db149" />
   <img width="300" height="600" alt="ChatGPT Image 2025년 8월 1일 오후 02_54_50" src="https://github.com/user-attachments/assets/9d3f00a7-72b1-4ae8-b7a9-74220c578387" />
 
 

@@ -50,8 +50,7 @@
 ```
 
 - 사용 예시 :
-  ![이름 없는 노트북-2](https://github.com/user-attachments/assets/2d011e4f-892d-414f-bad4-d460b44db149)
-
+  <img width="300" height="600" alt="ChatGPT Image 2025년 8월 1일 오후 02_54_50" src="[https://github.com/user-attachments/assets/9d3f00a7-72b1-4ae8-b7a9-74220c578387](https://github.com/user-attachments/assets/2d011e4f-892d-414f-bad4-d460b44db149)" />
 
   <img width="300" height="600" alt="ChatGPT Image 2025년 8월 1일 오후 02_54_50" src="https://github.com/user-attachments/assets/9d3f00a7-72b1-4ae8-b7a9-74220c578387" />
 

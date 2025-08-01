@@ -149,7 +149,8 @@ J304_김민우
 
 1. 실행과정 :
 
-![image.png](attachment:5c2522de-4256-498b-87b5-ad08bc93c7db:image.png)
+<img width="1165" height="430" alt="image" src="https://github.com/user-attachments/assets/66b60bdd-553a-4b7b-85eb-98889f67501e" />
+
 
 1. 깨달은점 : 정답은 두번째 사진이었습니다. 많은 사람들이 정답을 맞추었지만, 처음에는 전혀 구분이 되지 않는다고 생각했습니다. AI 기술이 발전함에 따라 더욱 현실적인 이미지를 만들어 전문가도 구분하기 어려워질 수 있다는 점을 깨달았습니다. AI의 발전이 여러 분야에 빠른 변화를 가져오고 있음을 실감했습니다.
 2. 다음 사람이 이어받으면 좋을점 : 실제 사진을 구글에서 가져올 때 더 꼼꼼히 검수해야 합니다. 첫번째 사진 가운데에 브랜드 로고가 있었지만 미처 발견하지 못했고, J_279 정우님이 알려주셔서 알게 되었습니다. 또한 비교할 사진 두 개를 더 비슷한 느낌으로 선택하면 구별하기 더 어려워져 퀴즈의 난이도가 높아질 것 같습니다.
@@ -163,7 +164,9 @@ J304_김민우
     
     `질문`
     
-    ![Screenshot 2025-08-01 at 1.08.32 PM.png](attachment:96c0c15a-f57b-4914-8ed4-06e667213554:Screenshot_2025-08-01_at_1.08.32_PM.png)
+    <img width="721" height="205" alt="image" src="https://github.com/user-attachments/assets/d4247df7-aab5-4840-8f18-5710870a97e2" />
+
+
     
     `결과`
     
@@ -190,19 +193,13 @@ J279 추정우
 
 - 이유: 내 리드미를 다른 사람이 읽었을 때 어떨지 객관적인  피드백을 받아 보고 싶어서
 - 실행 과정
-    
-    ![image.png](attachment:7941c433-c454-48a3-80f3-6743f92feb56:image.png)
-    
-    ![image.png](attachment:4376400b-0960-494e-a310-6445895ce86a:image.png)
-    
-    ![image.png](attachment:57409b29-ae99-4ebb-9dd1-29f36c347663:image.png)
-    
-    ![image.png](attachment:0602bbf9-8798-44f8-ad0c-c6e2b0978aa5:image.png)
-    
-    ![image.png](attachment:a22db35d-77c6-4cf8-9df5-edb16c7451f3:image.png)
-    
-    ![image.png](attachment:8208fe8f-fc1d-4696-9495-6c55ab8291ad:image.png)
-    
+    <img width="707" height="635" alt="image" src="https://github.com/user-attachments/assets/4e94d56c-5e8c-4e76-af6c-9219bfa98d23" />
+<img width="659" height="675" alt="image" src="https://github.com/user-attachments/assets/877c8a0b-f6f7-4e71-a15f-cd1f7d315e11" />
+<img width="656" height="506" alt="image" src="https://github.com/user-attachments/assets/7829cf69-81cf-4a2d-a2e6-6482e7aaf0f0" />
+<img width="653" height="633" alt="image" src="https://github.com/user-attachments/assets/67364348-2cc1-4858-b38e-a17abb564d21" />
+<img width="659" height="317" alt="image" src="https://github.com/user-attachments/assets/9e1a3f51-66a9-4d11-bd8b-78de2b50b5e2" />
+
+
 - 인사이트
     - 작성자 입장에서는 구조와 흐름이 이미 머릿속에 있기 때문에, **내가 보기엔 충분히 명확**하게 보임
     하지만 AI 피드백을 통해 **외부 독자의 시선에서 놓칠 수 있는 부분**을 알 수 있음
